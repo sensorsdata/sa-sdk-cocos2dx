@@ -1,10 +1,4 @@
 ![logo](https://opensource.sensorsdata.cn/wp-content/uploads/logo.png)
-<br><br>
-[![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-cocos2dx.svg)](https://github.com/sensorsdata/sa-sdk-cocos2dx/blob/master/LICENSE)
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/sensorsdata/sa-sdk-cocos2dx.svg)](http://isitmaintained.com/project/sensorsdata/sa-sdk-cocos2dx "Average time to resolve an issue")
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/sensorsdata/sa-sdk-cocos2dx.svg)](http://isitmaintained.com/project/sensorsdata/sa-sdk-cocos2dx "Percentage of issues still open")
-[![GitHub release](https://img.shields.io/github/tag/sensorsdata/sa-sdk-cocos2dx.svg?label=release)](https://github.com/sensorsdata/sa-sdk-cocos2dx/releases)
-[![GitHub release date](https://img.shields.io/github/release-date/sensorsdata/sa-sdk-cocos2dx.svg)](https://github.com/sensorsdata/sa-sdk-cocos2dx/releases)
 
 ## 神策简介
 
