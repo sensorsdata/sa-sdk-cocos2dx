@@ -26,7 +26,7 @@ Cocos2d-x SDK 是一款用于 Android、iOS 平台 Cocos2d-x App 埋点的 SDK�
 
 ## License
 
-Copyright 2015－2021 Sensors Data Inc.
+Copyright 2015－2024 Sensors Data Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
